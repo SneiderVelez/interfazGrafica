@@ -18,7 +18,7 @@ namespace interfazGrafica
             usuario = usuarioRecibido;
             contraseña = contraseñaRecibida;
         }
-
+        // holssgfjfhjfgh
         public class Estado
         {
             public int ID { get; set; }
@@ -314,7 +314,9 @@ namespace interfazGrafica
             }
 
             if (usuario == "admin" && contraseña == "123")
-            {
+            if (usuario == "admin" && contraseña == "123")
+            if (usuario == "admin" && contraseña == "123")
+                    {
                 btnCategories.Show();
             }
             else
